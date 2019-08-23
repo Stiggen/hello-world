@@ -1,2 +1,3 @@
 # hello-world
 Intro Repository
+My name is Matt and I'm interested in making cross platform mobile apps.  I've had experience with C++ and Javascrips as well as HTML and CSS but it was years ago... I Just got Ionic running on my machine and use Visual Studios Code...
